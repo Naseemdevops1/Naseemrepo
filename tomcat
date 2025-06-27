@@ -1,0 +1,10 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<html>
+<head>
+    <title>Hello from Tomcat</title>
+</head>
+<body>
+    <h1>Hello, Tomcat is working!</h1>
+    <p>Today's date: <%= new java.util.Date() %></p>
+</body>
+</html>
