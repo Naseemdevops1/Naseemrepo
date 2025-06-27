@@ -1,0 +1,19 @@
+1. Container Orchestration
+Kubernetes automates how containers are deployed, scaled, and operated in production environments.
+
+2. Self-Healing
+If a container crashes, Kubernetes automatically restarts it, reschedules it, or replaces it.
+
+3. Scaling
+Kubernetes can automatically scale your application up or down based on CPU or custom metrics.
+
+4. Load Balancing
+Distributes network traffic across containers to maintain stability and performance.
+
+5. Service Discovery
+Assigns IPs and DNS names to services, so containers can find and communicate with each other.
+
+6. Rolling Updates and Rollbacks
+You can update your application with zero downtime and easily roll back if something goes wrong.
+
+
